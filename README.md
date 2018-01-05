@@ -1,2 +1,2 @@
 # singletontest
-singleton test
+singleton test afd
